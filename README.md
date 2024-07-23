@@ -6,5 +6,5 @@ Email investigations are crucial for uncovering and managing the risks posed by 
 
 This project emphasizes security awareness over tool use, requiring a keen eye to detect fraudulent emails. By scrutinizing sender information, identifying red flags in language or links, and recognizing known phishing signatures, organizations can strengthen their defenses against these threats. The goal is to enhance our ability to spot and prevent potential security breaches effectively.
 
-# Analysis Provided Below:
-[Implementing Azure Firewall Home Lab](https://github.com/victormbogu1/Implementing-Azure-Firewall)
+# Walkthrough:
+Email is a primary vector for malware distribution, with thousands of messages exchanged every hour. As a security analyst, it is crucial to safeguard employees and internal networks from harmful content. Research indicates that 2% to 4% of all emails may contain malware, with attachments being a traditional method of spreading threats. In this investigation, I will assess whether emails are safe for release or need to be quarantined due to suspicious content. My report will include a detailed rationale for each decision, and this will be documented and uploaded as previously mentioned.
